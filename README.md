@@ -61,7 +61,6 @@ LT Foods Financial Analysis evaluates financial statements, identifies trends, a
 
 - **Power BI**: For creating interactive dashboards.
 - **Excel**: For initial data cleaning and formatting.
-- **SQL**: For querying and organizing datasets.
 - **Screener.in**: Data extraction for:
   - Profit & Loss Statement
   - Balance Sheet
@@ -115,17 +114,14 @@ LT Foods Financial Analysis evaluates financial statements, identifies trends, a
 ## 🔔 Screenshots
 
 1. **Home Page Overview**:
-   - Screenshot Placeholder
+   ![image_alt](https://github.com/farman-7/LT-Food-Financial-Analysis/blob/d9b5cc1820351dd0db7a92b50f3ebb3595bab761/1.Home.png)
 
 2. **Revenue Analysis**:
-   - Screenshot Placeholder
+   ![image_alt](https://github.com/farman-7/LT-Food-Financial-Analysis/blob/d9b5cc1820351dd0db7a92b50f3ebb3595bab761/4.Revenue%20Expense.png)
 
 3. **Cash Flow Visualization**:
-   - Screenshot Placeholder
+   ![image_alt](https://github.com/farman-7/LT-Food-Financial-Analysis/blob/d9b5cc1820351dd0db7a92b50f3ebb3595bab761/9.Cash%20Flow.png)
 
-## 🔧 Dashboard Link
-
-Explore the interactive dashboard here: [LT Foods Financial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjUwZGIyZTktYmI0Yi00ZGM2LTliMmItYjM2ZWJkMzhkNjJhIiwidCI6IjdhZWYzOTEyLWQ2NTAtNDljZi1iMzk3LWFjODJjNDNmODgwMiJ9 )
 
 ## 📞 Contact
 
